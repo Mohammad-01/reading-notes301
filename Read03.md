@@ -13,8 +13,11 @@
 ## Four things that the spread operator can do:
 
 1) Copying an array.
+
 2) Concatenating or combining arrays.
+
 3) Using Math functions.
+
 4) Using an array as arguments.
 
 ## What is increment function?
